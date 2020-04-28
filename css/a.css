@@ -1,0 +1,287 @@
+/* first-block starts here */
+.first-block h1{
+    font-size: 120px;
+    text-align: center!important;
+    margin-top: 20px;
+}
+
+.first-block h1 :hover{
+    color:rgba(55, 112, 219, 0.788) ;
+}
+.first-block h1 a {
+    text-decoration: none;
+    border-bottom: 1px solid grey;
+    color: rgb(49, 49, 49);
+    font-family: Merienda;
+}
+
+.first-block p {
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: Merienda;
+    padding-top: 10px;
+}
+/* first-block ends here */
+
+/* navbar starts here */
+
+.nav-bar {
+    text-align: center;
+    padding-left: 150px;
+    border-bottom: 1px solid rgb(245, 243, 243);
+}
+
+.navbar-nav :hover {
+    color: rgba(45, 149, 175, 0.788)!important;
+}
+
+.navbar-nav li {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.fa-nav .fa {
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+/* navbar ends here */
+
+/* second-bk starts here */
+
+.second-bk {
+    margin-left: 100px!important;
+    margin-top: 80px;
+    margin-right: 100px;
+}
+
+.a2bb h2 {
+    font-size: 42px;
+    letter-spacing: 1;
+    color: rgb(53, 51, 51);
+    font-weight: 400;
+    padding-bottom: 40px;
+    text-align: center;
+    
+    
+}
+
+.a2bc img {
+    max-width: 90%!important;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.b1 {
+  padding-right: 50px!important;
+  text-align: justify;
+}
+
+.notes a {
+    text-decoration: none;
+}
+.notes span {
+    color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    border-left: 2px solid black;
+    padding-left: 5px;
+
+    /* border-left: 2px solid orange; */
+}
+
+.notesa {
+    color: orange;
+    height: 2px;
+    border-left: 2px solid black;
+}
+
+.bk2a {
+    padding-right: 100px;
+}
+.bk2b {
+    padding: 0px!important;
+  margin-top: 20px;
+}
+
+.bk2b li img {
+    padding-left: 0px!important;
+    vertical-align: middle;
+    text-align: left;
+    border-radius: 10px;
+}
+.bk2b li {
+    list-style: none;
+    display: inline-flexbox;
+    padding-top: 20px;
+    margin-left: 0px!important;
+  
+}
+
+.bk2b a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+
+/* second-bk ends here */
+
+/* third bk starts here */
+.nn li {
+    list-style: none;
+}
+.nn1 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.nn img {
+    max-width: 25%;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: -40px;
+}
+
+.md-ft h1 {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.media-fts li {
+    font-size: 16px;
+}
+
+.media-fts a {
+text-decoration: none;
+color: rgb(48, 47, 47);
+font-weight: 700;
+font-size: 17px;
+}
+
+.nn2{
+    padding-bottom: 10px;
+}
+.nn2 li {
+    list-style: none;
+    padding-top: 25px;
+}
+
+.nn2a {
+    margin-left: 40px;
+    padding-bottom: 50px;
+}
+.nnn1 span {
+    padding-top: 5px;
+    border-top: 1px solid rgb(177, 177, 177);
+    font-weight: 600;
+    padding-bottom: 10px;
+    
+}
+
+.btn-twt {
+    background-color: #1b95e0;
+    color: white;
+    border-radius: 7px;
+    font-size: 12px;
+}
+
+/* third bk ends here */
+
+/* fourth bk starts here */
+.last1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 1px solid rgb(223, 220, 220);
+    border-bottom: 1px solid rgb(223, 220, 220);
+    margin-bottom: 20px;
+}
+
+.lastt {
+    border: 3px solid rgb(165, 163, 163);
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 2px;
+   
+}
+
+.last1b {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.last1b .fa {
+    border: 1px solid grey;
+    border-radius: 50%;
+    padding: 20px 20px;
+    margin-left: 10px;
+    background-color: #1b95e0;
+    color: white;
+    font-size: 20px;
+}
+
+.last1b .fa:hover{
+     background-color: #3179a5; ;
+}
+.last1b .ai {
+    border: 1px solid grey;
+    border-radius: 50%;
+    padding: 20px 20px;
+    margin-left: 10px;
+    background-color: #1a5d86;
+    color: white;
+    font-size: 20px;
+}
+
+.last1b .ai:hover{
+    background-color: #1f4e6b;
+}
+
+.last1c a {
+    font-family: merienda;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    color: orange;
+    padding: 0px 0px!important;
+    text-decoration: none;
+}
+
+.last1 a:hover{
+    color:rgba(55, 112, 219, 0.788);
+}
+
+.last1b a {
+    text-decoration:none!important;
+}
+
+.scroll {
+    text-align: right;
+    margin-right: 40px;
+    margin-bottom: 50px;
+
+}
+
+.scroll .fa {
+    font-size: 20px;
+    border: 1px solid grey;
+    color: grey;
+    padding: 10px 10px;
+    border-radius: 50%;
+    background-color: rgb(226, 221, 221);
+    text-align: center;
+    
+}
+
+.scroll .fa:hover {
+    color: blue;
+    background-color: rgb(99, 98, 98);
+}
+/* fourth bk ends here */
+@media only screen and (max-width: 768px) {
+    .hid {display: none!important;  
+    }
+}
